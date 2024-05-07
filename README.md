@@ -1,4 +1,8 @@
 ### Hi there 👋
+<ul>
+  <li>Hi</li>
+  <li>hi2</li>
+</ul>
 
 <!--
 **ewashington1/ewashington1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
