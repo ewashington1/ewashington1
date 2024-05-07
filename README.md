@@ -1,8 +1,7 @@
-### Hi there 👋
-<ul>
-  <li>Hi</li>
-  <li>hi2</li>
-</ul>
+<div style="display: flex; justify-content: center;">
+  <h1 style="">Hey, I'm Evan 👋</h1>
+</div>
+
 
 <!--
 **ewashington1/ewashington1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
